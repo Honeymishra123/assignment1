@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8C13-0C07
+
+ Directory of C:\Users\rishiraja\Desktop\MY FOLDER\assignment1
+
+22-09-2023  14:59    <DIR>          .
+22-09-2023  14:59    <DIR>          ..
+22-09-2023  14:58    <DIR>          assignment1
+22-09-2023  11:46               351 file.txt
+22-09-2023  11:48               358 new.txt
+22-09-2023  14:59                 0 test5.txt
+               3 File(s)            709 bytes
+               3 Dir(s)  213,328,875,520 bytes free
