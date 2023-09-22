@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6E7B-3902
+
+ Directory of C:\Users\shiveshm\Desktop\My Folder
+
+09/22/2023  12:39 PM    <DIR>          .
+09/22/2023  12:39 PM    <DIR>          ..
+09/22/2023  12:11 PM               351 file.txt
+09/22/2023  11:42 AM               358 new.txt
+09/22/2023  12:39 PM                 0 new1.txt
+               3 File(s)            709 bytes
+               2 Dir(s)  239,916,535,808 bytes free
